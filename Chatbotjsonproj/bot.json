@@ -1,0 +1,59 @@
+{
+   "brain":[
+    
+      {
+    "triggers":[
+     "jokes",
+     "fun jokes",
+     "funny jokes",
+     "make me laugh",
+     "make my day",
+     "tell me a joke"
+            
+         ],
+         "responses":[
+           "What did the snail who was riding on the turtle's back say? Wheeeee!",
+"What do you call a lazy kangaroo? A pouch potato.",
+"What does a pig put on dry skin? Oinkment."
+
+            
+         ]
+      },
+      {
+         "triggers":[
+           "Song recommendation", 
+            "Recommend me a song",
+            "What song should I listen to",
+            "Song"
+            
+         ],
+         "responses":[
+           "Here is a song recommendation: Ditto by New Jeans", 
+           "Here is a song recommendation: Make you Mine by Giveon", 
+           "Here is a song recommendation: Infrunami by Steve Lacy"
+         ]
+      },
+      {
+         "triggers":["hi",
+     "hello",
+     "who are you",
+     "what's your name"
+            
+         ],
+         "responses":[   "My name is Violet.",
+            "I am a Chatbot for professor Carrie Wang’s class.",
+            "My favorite color is black",
+            "My height is 5'3."
+
+            
+         ]
+      }
+   ],
+   "catchall":[
+      "I'm not sure I get what you're saying. Ask me something else about the class.",
+ "I don't know much about that. But you can ask me about what students will get out of the class.",
+ "I'm not as smart as you think. Try asking me about how the class is taught."
+
+      
+   ]
+}
